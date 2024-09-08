@@ -40,10 +40,6 @@ I’m always eager to collaborate on:
 
 ---
 
-### 📫 How to Reach Me:
-- **LinkedIn**: [Kush Pandey](https://www.linkedin.com/in/kush-pandey-42008420a/)
-
----
 
 ### ⚡ Fun Fact:
 I’m a tech enthusiast who loves exploring cutting-edge technologies. When I’m not coding, you’ll find me tinkering with AI-driven art projects, delving into blockchain, or catching up on the latest developments in cybersecurity.
