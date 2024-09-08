@@ -1,62 +1,219 @@
-# 🏊🏼‍♂️ Kush Pandey
+<h1 align="center">Hi 👋, I'm Kush Pandey</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
 
-**`Full Stack Developer | AI Enthusiast | Open Source Contributor`**
+I’m a highly driven and passionate full-stack developer specializing in building dynamic, scalable, and efficient applications. With a strong foundation in AI, web technologies, and cloud computing, I strive to create impactful solutions that address real-world challenges. Currently, I'm working on exciting AI-powered projects and learning new technologies to push my skills even further.
 
-I'm a passionate developer with a focus on full-stack development and artificial intelligence, continuously building and improving my skills through various projects. I enjoy solving real-world problems using technology and contributing to the open-source community. When I'm not coding, I explore new tech trends and collaborate with like-minded developers on innovative projects. 
+---
+
+### 🔭 Current Project:
+- **[Spider-Net](https://github.com/kushpandey3009/Spider-Net.git)**: A robust AI-powered system for intelligent network management and real-time data processing.
+
+---
+
+### 🌱 Learning Journey:
+I am continuously expanding my knowledge in:
+- **Deep Learning**: Optimizing YOLOv8 models with TensorRT and ONNX for real-time object detection.
+- **Cross-platform Development**: Building responsive apps with Flutter and Dart.
+- **Blockchain**: Integrating blockchain solutions into web applications for enhanced security and transparency.
+
+---
+
+### 👯 Collaboration Opportunities:
+I’m always eager to collaborate on:
+- **Open-source projects** in full-stack development and AI/ML.
+- **Hackathons** that focus on real-time data processing, AI innovations, and security-driven solutions.
+
+---
+
+### 💬 Ask Me About:
+- **Full-stack development**: Python (Flask, Django), JavaScript (Node.js, React, Next.js), and Flutter.
+- **Artificial Intelligence & Machine Learning**: TensorFlow, YOLOv8, TensorRT, and Computer Vision.
+- **Cloud Computing**: AWS (S3, EC2), and scalable cloud infrastructure setups.
+- **Security & Blockchain**: Implementing blockchain for secure data management.
+
+---
+
+### 🏆 Achievements:
+- **Developed and deployed** AI-powered facial recognition and perimeter security systems for defense projects.
+- **Led full-stack development** for an Ed-Tech platform using Django, MySQL, and AWS.
+- **Contributed to open-source** AI and web development projects.
+
+---
+
+### 📫 How to Reach Me:
+- **LinkedIn**: [Kush Pandey](https://www.linkedin.com/in/kush-pandey-42008420a/)
+- **Email**: kush.pandey3009@gmail.com
+
+---
+
+### ⚡ Fun Fact:
+I’m a tech enthusiast who loves exploring cutting-edge technologies. When I’m not coding, you’ll find me tinkering with AI-driven art projects, delving into blockchain, or catching up on the latest developments in cybersecurity.
+
+---
+
+### 🌐 Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/kush-pandey-42008420a" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
 <p align="left">
-  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/fknight">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/kushpandey3009?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kushpandey3009?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="GitHub followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kushpandey3009?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
+  </a>
   <a href="https://github.com/kushpandey3009?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kushpandey3009?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="GitHub stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kushpandey3009?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
+  </a>
 </p>
 
 ---
 
-### 🧰 Languages and Tools
+### 🛠 Tech Stack:
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<br />
+**Languages:**
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+</p>
+
+**Frontend Development:**
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
+  </a>
+</p>
+
+**Backend Development:**
+<p align="left">
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  </a>
+</p>
+
+**Mobile App Development:**
+<p align="left">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
+  </a>
+</p>
+**Cloud Platforms:**
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+  </a>
+</p>
+
+**Databases:**
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
+  </a>
+  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="Elasticsearch" width="40" height="40" />
+  </a>
+</p>
+
+**Tools & Platforms:**
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" />
+  </a>
+  <a href="https://docker.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
+  </a>
+  <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
+  </a>
+</p>
+
+**AI & ML Libraries:**
+<p align="left">
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
+  </a>
+</p>
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📈 GitHub Stats:
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Programmers Need More Math](https://ytcards.demolab.com/?id=gHRVhL1fZC0&title=Programmers+Need+More+Math&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=317 "Programmers Need More Math")](https://www.youtube.com/watch?v=gHRVhL1fZC0)
-[![How to DESTROY Developer Productivity (avoid at all costs)](https://ytcards.demolab.com/?id=vl6SQZWRaks&title=How+to+DESTROY+Developer+Productivity+%28avoid+at+all+costs%29&lang=en&timestamp=1725462064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=784 "How to DESTROY Developer Productivity (avoid at all costs)")](https://www.youtube.com/watch?v=vl6SQZWRaks)
-[![Everything You Need to Know about Git](https://ytcards.demolab.com/?id=K6Q31YkorUE&title=Everything+You+Need+to+Know+about+Git&lang=en&timestamp=1724864414&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1396 "Everything You Need to Know about Git")](https://www.youtube.com/watch?v=K6Q31YkorUE)
-[![Abstraction - Java OOP](https://ytcards.demolab.com/?id=Om2kORezNu8&title=Abstraction+-+Java+OOP&lang=en&timestamp=1724774421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59 "Abstraction - Java OOP")](https://www.youtube.com/watch?v=Om2kORezNu8)
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
----
-
-### 📊 Stats
-
-![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushpandey3009&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=kushpandey3009&theme=gruvbox&border_radius=4.5) -->
+<p align="center">
+  <a href="https://github.com/kushpandey3009">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kushpandey3009&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" />
+  </a>
+  <a href="https://github.com/kushpandey3009">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kushpandey3009&theme=github_dark" />
+  </a>
+  <a href="https://github.com/kushpandey3009">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushpandey3009&layout=compact&theme=github_dark" />
+  </a>
+</p>
 
 ---
 
-### 👨‍💻 My Coding Journey
+### 📂 My Projects:
 
-My journey started with a passion for understanding how technology works. Over the years, I have developed expertise in Python, AI, and full-stack development, working on projects ranging from real-time face recognition systems to ed-tech platforms. Now, I focus on building scalable solutions and continuously exploring new technologies like machine learning and blockchain.
+- **[Face Recognition System](https://github.com/kushpandey3009/Face-Recognition-System)**: A real-time face recognition system using deep learning techniques for security and access control.
+- **[Seeker](https://github.com/kushpandey3009/Seeker)**: A data collection and analytics platform focused on defense, including core API development and database management.
+- **[Foreguard](https://github.com/kushpandey3009/Foreguard)**: A perimeter security system incorporating AI-driven face recognition and automatic gate locking mechanisms.
+- **[Ed-Tech Platform](https://github.com/kushpandey3009/Ed-Tech-Platform)**: A full-stack educational platform with administrative functionalities and AWS integration for real-time data management.
+- **[Legal Case Management System](https://github.com/kushpandey3009/Legal-Case-Management-System)**: A comprehensive case management platform for the Indian legal system, featuring blockchain integration and advanced security.
 
-[website]: https://yourwebsite.com
-[youtube]: https://youtube.com/yourchannel
+---
+
+### 📝 Recent Blog Posts:
+- [Optimizing YOLOv8 Models with TensorRT](https://medium.com/@kushpandey3009/optimizing-yolov8-models-with-tensorrt-abc123) - A deep dive into optimizing object detection models for better performance.
+- [Building Scalable Web Applications with Flask and Django](https://medium.com/@kushpandey3009/building-scalable-web-applications-with-flask-and-django-xyz789) - Insights into creating scalable and efficient web applications using Flask and Django.
+
+---
+
+Feel free to reach out if you have any questions or would like to discuss potential collaborations!
+
+
