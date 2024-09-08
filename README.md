@@ -42,7 +42,6 @@ I’m always eager to collaborate on:
 
 ### 📫 How to Reach Me:
 - **LinkedIn**: [Kush Pandey](https://www.linkedin.com/in/kush-pandey-42008420a/)
-- **Email**: kush.pandey3009@gmail.com
 
 ---
 
@@ -76,14 +75,11 @@ I’m a tech enthusiast who loves exploring cutting-edge technologies. When I’
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
-  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -108,9 +104,9 @@ I’m a tech enthusiast who loves exploring cutting-edge technologies. When I’
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40" />
-  </a>
+ <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
+</a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   </a>
@@ -120,12 +116,6 @@ I’m a tech enthusiast who loves exploring cutting-edge technologies. When I’
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-  </a>
-</p>
-**Cloud Platforms:**
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
   </a>
 </p>
 
@@ -140,13 +130,21 @@ I’m a tech enthusiast who loves exploring cutting-edge technologies. When I’
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
   </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+<!--   <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
-  </a>
+  </a> -->
   <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="Elasticsearch" width="40" height="40" />
   </a>
 </p>
+
+**Cloud Platforms:**
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+  </a>
+</p>
+
 
 **Tools & Platforms:**
 <p align="left">
@@ -156,15 +154,15 @@ I’m a tech enthusiast who loves exploring cutting-edge technologies. When I’
   <a href="https://docker.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
-  </a>
-  <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
+  </a> -->
+<!--   <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40" />
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
-  </a>
+  </a> -->
 </p>
 
 **AI & ML Libraries:**
@@ -196,6 +194,12 @@ I’m a tech enthusiast who loves exploring cutting-edge technologies. When I’
   </a>
 </p>
 
+
+
+### 🚀 LeetCode Stats:
+
+[![LeetCode user kushpandeymps](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkushpandeymps&logo=leetcode&logoColor=yellow)](https://leetcode.com/kushpandeymps/)
+
 ---
 
 ### 📂 My Projects:
@@ -204,7 +208,6 @@ I’m a tech enthusiast who loves exploring cutting-edge technologies. When I’
 - **[Seeker](https://github.com/kushpandey3009/Seeker)**: A data collection and analytics platform focused on defense, including core API development and database management.
 - **[Foreguard](https://github.com/kushpandey3009/Foreguard)**: A perimeter security system incorporating AI-driven face recognition and automatic gate locking mechanisms.
 - **[Ed-Tech Platform](https://github.com/kushpandey3009/Ed-Tech-Platform)**: A full-stack educational platform with administrative functionalities and AWS integration for real-time data management.
-- **[Legal Case Management System](https://github.com/kushpandey3009/Legal-Case-Management-System)**: A comprehensive case management platform for the Indian legal system, featuring blockchain integration and advanced security.
 
 ---
 
