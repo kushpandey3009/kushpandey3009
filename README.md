@@ -1,48 +1,22 @@
 <h1 align="center">Hi 👋, I'm Kush Pandey</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">AI Engineer | Agentic AI & RAG Specialist | Full-Stack Developer</h3>
 
-I’m a highly driven and passionate full-stack developer specializing in building dynamic, scalable, and efficient applications. With a strong foundation in AI, web technologies, and cloud computing, I strive to create impactful solutions that address real-world challenges. Currently, I'm working on exciting AI-powered projects and learning new technologies to push my skills even further.
-
----
-
-### 🔭 Current Project:
-- **[Spider-Net](https://github.com/kushpandey3009/Spider-Net.git)**: A robust AI-powered system for intelligent network management and real-time data processing.
+I’m an AI Engineer with over 3 years of experience building and shipping production-grade AI systems. My core expertise lies in architecting **multi-agent workflows**, **agentic RAG pipelines**, and **computer vision** solutions. I enjoy owning systems end-to-end—from data ingestion and vector retrieval architecture to agent design and deployment—using frameworks like LangGraph, AWS Bedrock, and Azure OpenAI to turn complex ideas into time-saving, scalable enterprise solutions.
 
 ---
 
-### 🌱 Learning Journey:
-I am continuously expanding my knowledge in:
-- **Deep Learning**: Optimizing YOLOv8 models with TensorRT and ONNX for real-time object detection.
-- **Cross-platform Development**: Building responsive apps with Flutter and Dart.
-- **Blockchain**: Integrating blockchain solutions into web applications for enhanced security and transparency.
+### 🔭 What I'm Up To:
+- **Currently Building:** Asynchronous multi-agent RAG pipelines for Operational Risk Assessments and AI-driven hiring platforms (X-Hire) featuring LLM orchestration and semantic matching engines.
+- **🌱 Currently Exploring:** Advanced vector infrastructure (MongoDB Atlas Hubble), optimizing multi-agent evaluation workflows, and growing my tech and lifestyle content brand, **LatentSpace.KP**.
+- **👯 Looking to Collaborate on:** Open-source AI/ML tools, agentic workflow automation, and Web3/Blockchain hackathons.
+- **💬 Ask Me About:** Python, Agentic AI (LangGraph, LangChain), Retrieval-Augmented Generation (RAG), Computer Vision (YOLO, PyTorch), and Cloud/Vector Infrastructure.
 
 ---
 
-### 👯 Collaboration Opportunities:
-I’m always eager to collaborate on:
-- **Open-source projects** in full-stack development and AI/ML.
-- **Hackathons** that focus on real-time data processing, AI innovations, and security-driven solutions.
-
----
-
-### 💬 Ask Me About:
-- **Full-stack development**: Python (Flask, Django), JavaScript (Node.js, React, Next.js), and Flutter.
-- **Artificial Intelligence & Machine Learning**: TensorFlow, YOLOv8, TensorRT, and Computer Vision.
-- **Cloud Computing**: AWS (S3, EC2), and scalable cloud infrastructure setups.
-- **Security & Blockchain**: Implementing blockchain for secure data management.
-
----
-
-### 🏆 Achievements:
-- **Developed and deployed** AI-powered facial recognition and perimeter security systems for defense projects.
-- **Led full-stack development** for an Ed-Tech platform using Django, MySQL, and AWS.
-- **Contributed to open-source** AI and web development projects.
-
----
-
-
-### ⚡ Fun Fact:
-I’m a tech enthusiast who loves exploring cutting-edge technologies. When I’m not coding, you’ll find me tinkering with AI-driven art projects, delving into blockchain, or catching up on the latest developments in cybersecurity.
+### 🏆 Certifications & Achievements:
+- **Microsoft Certified:** Azure AI Engineer Associate
+- **Winner, HackSecret 2024:** Built *Whistleblower*, a decentralized and secure reporting platform using Next.js and smart contracts on the Secret Network.
+- **Certified:** Master Vector Databases
 
 ---
 
@@ -50,6 +24,9 @@ I’m a tech enthusiast who loves exploring cutting-edge technologies. When I’
 <p align="left">
   <a href="https://linkedin.com/in/kush-pandey-42008420a" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:kushpandeymps@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
@@ -64,119 +41,93 @@ I’m a tech enthusiast who loves exploring cutting-edge technologies. When I’
 
 ---
 
-### 🛠 Tech Stack:
+### 🛠 Tech Stack & Tools:
 
 **Languages:**
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-</p>
-
-**Frontend Development:**
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
-  </a>
-</p>
-
-**Backend Development:**
-<p align="left">
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
-  </a>
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
-</a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-</p>
-
-**Mobile App Development:**
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-  </a>
-</p>
-
-**Databases:**
-<p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-<!--   <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
-  </a> -->
-  <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" alt="Elasticsearch" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40" />
   </a>
 </p>
 
-**Cloud Platforms:**
+**AI, ML & Frameworks:**
 <p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  </a>
-</p>
-
-
-**Tools & Platforms:**
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://docker.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-<!--   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" />
-  </a> -->
-<!--   <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="Apache" width="40" height="40" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
-  </a> -->
-</p>
-
-**AI & ML Libraries:**
-<p align="left">
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="LangChain" width="40" height="40" />
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" />
   </a>
 </p>
+<p>
+  <i>Also highly experienced with: LangGraph, GPT-4o, Claude 3.5 Sonnet, Gemini, and YOLO.</i>
+</p>
+
+**Backend & Web Development:**
+<p align="left">
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+  </a>
+</p>
+
+**Cloud & Databases:**
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  </a>
+  <a href="https://docker.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  </a>
+</p>
+<p>
+  <i>Including vector databases (Pinecone, MongoDB Hubble) and AWS Bedrock/Azure OpenAI environments.</i>
+</p>
 
 ---
 
-### 📈 GitHub Stats:
+### 📂 Featured Projects:
+
+- **ODD (Operational Due Diligence):** An asynchronous multi-agent RAG pipeline built with FastAPI and MongoDB Atlas that automates operational risk assessments, reducing turnaround times from days to hours using specialized GPT-4o Mini agents.
+- **X-Hire:** An agentic AI hiring platform built on AWS Bedrock and LangGraph (Claude 3.5 Sonnet) featuring a semantic resume-matching engine (SortX) and live AI chatbot interviewers.
+- **[Foreguard](https://github.com/kushpandey3009/Foreguard) & [Seeker](https://github.com/kushpandey3009/Seeker):** Deployed defense-grade data collection, perimeter security, and ANPR access control platforms utilizing customized YOLO models and CUDA-accelerated dlib/FaceNet authentication.
+- **[Whistleblower](https://secretwhistleblower.vercel.app/):** A decentralized and anonymous reporting platform built with Next.js and MongoDB, utilizing smart contracts on the Secret Network (HackSecret 2024 Winner).
+
+---
+
+### 📈 GitHub & LeetCode Stats:
 
 <p align="center">
   <a href="https://github.com/kushpandey3009">
@@ -190,29 +141,8 @@ I’m a tech enthusiast who loves exploring cutting-edge technologies. When I’
   </a>
 </p>
 
-
-
-### 🚀 LeetCode Stats:
-
-[![LeetCode user kushpandeymps](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkushpandeymps&logo=leetcode&logoColor=yellow)](https://leetcode.com/kushpandeymps/)
-
----
-
-### 📂 My Projects:
-
-- **[Face Recognition System](https://github.com/kushpandey3009/Face-Recognition-System)**: A real-time face recognition system using deep learning techniques for security and access control.
-- **[Seeker](https://github.com/kushpandey3009/Seeker)**: A data collection and analytics platform focused on defense, including core API development and database management.
-- **[Foreguard](https://github.com/kushpandey3009/Foreguard)**: A perimeter security system incorporating AI-driven face recognition and automatic gate locking mechanisms.
-- **[Ed-Tech Platform](https://github.com/kushpandey3009/Ed-Tech-Platform)**: A full-stack educational platform with administrative functionalities and AWS integration for real-time data management.
-
----
-
-### 📝 Recent Blog Posts:
-- [Optimizing YOLOv8 Models with TensorRT](https://medium.com/@kushpandey3009/optimizing-yolov8-models-with-tensorrt-abc123) - A deep dive into optimizing object detection models for better performance.
-- [Building Scalable Web Applications with Flask and Django](https://medium.com/@kushpandey3009/building-scalable-web-applications-with-flask-and-django-xyz789) - Insights into creating scalable and efficient web applications using Flask and Django.
-
----
-
-Feel free to reach out if you have any questions or would like to discuss potential collaborations!
-
-
+<p align="center">
+  <a href="https://leetcode.com/kushpandeymps/">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode%20Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fkushpandeymps&logo=leetcode&logoColor=yellow" />
+  </a>
+</p>
